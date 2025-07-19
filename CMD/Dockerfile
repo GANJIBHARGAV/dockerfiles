@@ -1,2 +1,2 @@
-FROM run:v2
+FROM run:v3
 CMD ["nginx", "-g", "daemon off;"]
